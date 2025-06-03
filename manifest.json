@@ -2,7 +2,7 @@
     "name": "System Zarządzania Zadaniami Serwisowymi",
     "short_name": "Zadania Serwisowe",
     "description": "System do zarządzania zadaniami serwisowymi",
-    "start_url": "/",
+    "start_url": "/zadania-serwisowe-v2/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#3498db",

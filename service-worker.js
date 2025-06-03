@@ -1,10 +1,10 @@
 const CACHE_NAME = 'zadania-serwisowe-v1';
 const CACHE_FILES = [
-    '/',
-    '/index.html',
-    '/manifest.json',
-    '/icons/icon-192x192.png',
-    '/icons/icon-512x512.png',
+    '/zadania-serwisowe-v2/',
+    '/zadania-serwisowe-v2/index.html',
+    '/zadania-serwisowe-v2/manifest.json',
+    '/zadania-serwisowe-v2/icons/icon-192x192.png',
+    '/zadania-serwisowe-v2/icons/icon-512x512.png',
     'https://code.jquery.com/jquery-3.6.0.min.js',
     'https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js',
     'https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'
